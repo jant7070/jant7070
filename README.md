@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Morillo</h1>
 <h3 align="center">A curious, passionate, and autodidact fullstack developer 👨‍💻 from Venezuela. With a keen eye for building web applications with modern technologies.</h3>
 
-- 🔭 I’m currently working on **Runnest**
+- 🔭 I’m currently working on **Pidelo APP**
 
 - 🌱 I’m currently learning **Figma**
 
